@@ -35,7 +35,7 @@ export function Hero() {
           >
             Stop Overpaying the Cloud. Build Leaner, Scale Smarter.
             <span className="bg-gradient-to-r from-purple-600 via-pink-600 to-blue-600 dark:from-purple-400 dark:via-pink-400 dark:to-blue-400 bg-clip-text text-transparent animate-gradient">
-              GenAI
+              Abhiram.AI
             </span>
           </motion.h1>
 
