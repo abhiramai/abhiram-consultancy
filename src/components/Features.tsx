@@ -11,44 +11,44 @@ import {
 const features = [
   {
     icon: Brain,
-    title: "Advanced AI Models",
+    title: "Free-Tier Mastery",
     description:
-      "Access state-of-the-art language models and neural networks for your applications.",
+      "Why pay for hosting? I'll move your stack to 100% free-forever tiers on Cloudflare, GitHub, and Oracle Cloud.",
     gradient: "from-purple-500 to-pink-500",
   },
   {
     icon: Zap,
-    title: "Lightning Fast",
+    title: "The $0 Waste Audit",
     description:
-      "Optimized infrastructure ensures your AI queries are processed in milliseconds.",
+      "I identify "zombie" resources and over-provisioned instances that are quietly draining your monthly budget.",
     gradient: "from-yellow-500 to-orange-500",
   },
   {
     icon: Shield,
-    title: "Enterprise Security",
+    title: "Serverless-First Design",
     description:
-      "Bank-level encryption and compliance with SOC 2, GDPR, and HIPAA standards.",
+      "Scalable architecture that costs $0 when you have no traffic, and cents when you do. No more idle server bills.",
     gradient: "from-green-500 to-emerald-500",
   },
   {
     icon: Code,
-    title: "Developer First",
+    title: "Open-Source Swaps",
     description:
-      "Clean APIs, comprehensive docs, and SDKs in your favorite programming languages.",
+      "Replace expensive $20/mo SaaS subscriptions with self-hosted or generous free-tier alternatives that do the same job.",
     gradient: "from-blue-500 to-cyan-500",
   },
   {
     icon: Globe,
-    title: "Global Scale",
+    title: "Credit Maximization",
     description:
-      "Deploy worldwide with edge locations across 6 continents for minimal latency.",
+      "Learn how to unlock $1,000s in AWS, Azure, and GCP startup credits even as a solo founder or consultant.",
     gradient: "from-indigo-500 to-purple-500",
   },
   {
     icon: Sparkles,
-    title: "Auto-Optimization",
+    title: "Billing Guardrails",
     description:
-      "Smart caching and model selection automatically optimize for cost and performance.",
+      "Never get a "surprise" $5,000 bill again. I set up hard limits and automated alerts that actually work.",
     gradient: "from-pink-500 to-rose-500",
   },
 ];
