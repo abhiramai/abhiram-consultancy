@@ -33,7 +33,7 @@ export function Hero() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight max-w-4xl"
           >
-            Build the Future with{" "}
+            Stop Overpaying the Cloud. Build Leaner, Scale Smarter.
             <span className="bg-gradient-to-r from-purple-600 via-pink-600 to-blue-600 dark:from-purple-400 dark:via-pink-400 dark:to-blue-400 bg-clip-text text-transparent animate-gradient">
               GenAI
             </span>
@@ -46,9 +46,7 @@ export function Hero() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-lg md:text-xl text-muted-foreground max-w-2xl"
           >
-            Harness the power of artificial intelligence to transform your ideas
-            into reality. Fast, secure, and scalable AI solutions for modern
-            businesses.
+            I help independent consultants and startups audit their cloud infrastructure to slash waste and maximize free-tier usage. Get enterprise-grade performance at a fraction of the cost.
           </motion.p>
 
           {/* CTA Buttons */}
@@ -59,7 +57,7 @@ export function Hero() {
             className="flex flex-col sm:flex-row gap-4"
           >
             <Button size="lg" className="group">
-              Get Started Free
+              [Book a Free Audit] (Link this to your Cal.com)
               <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
             </Button>
             <Button size="lg" variant="outline">
